@@ -64,3 +64,10 @@ NPs由于这些固有的且肉眼可见的光学变化特性而对比色测定�
 个人检测生物传感器进一步得到推广并成为基础设施。图1展示了生物传感器的一些生物检测物及其在医疗应用领域发挥的作用
 
 这篇综述将介绍生物传感器的一些前沿技术，尤其是基于表面等离子体激元和基于局部表面等离子体共振技术的近期发展，重点研究了基于倏逝场的纳米光子传感、基于等离子体纳米激元传感、基于介质共振的纳米传感和基于表面增强光谱的纳米光子传感技术。描述了他们的特性和优缺点，并讨论了它们在未来进⼀步开发和应⽤所⾯临的挑战。
+## 摘要
+本文主要介绍了生物传感中的纳米光子器件传感，一种在轻量易用的基础下进一步解决了传感精度和灵敏度问题的技术。在这篇文章中重点根据表面等离子体激元和局部表面等离子体共振分出倏逝场光子传感、等离子体纳米传感、介质共振纳米传感和表面增强光谱光子传感四大技术方向的技术特点和应用前景。我们还探讨了纳米光子生物传感器的前景和挑战，特别在微型化、集成化和前处理方面，对可能的生物芯片、结合功能涂层和微流控发展方向做了简单介绍。
+
+
+# ENG
+## abstract
+This paper mainly introduces the nano photonic device sensing in biosensors, a technology that further solves the problems of sensing accuracy and sensitivity on the basis of lightweight and easy to use. In this paper, we focus on the technical characteristics and application prospects of evanescent field photon sensing, plasma nano sensing, dielectric resonance nano sensing and surface enhanced spectral photon sensing based on surface plasmon polaritons and local surface plasmon resonance. We also discussed the prospects and challenges of nano photonic biosensors, especially in the areas of miniaturization, integration and pretreatment, and briefly introduced the possible development directions of biochips, bonded functional coatings and microfluidics.
