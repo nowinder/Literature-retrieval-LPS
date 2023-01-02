@@ -45,8 +45,22 @@ NPs由于这些固有的且肉眼可见的光学变化特性而对比色测定�
 
 
 ## 前言
-70% 的医疗决策都依赖于准确及时的医疗诊断结果，⽽诊断信息通常由医院以及集中使⽤分析⽅法的实验室获得，如标记免疫分析、聚合酶链反应、细胞培养。尽管这些分析传感技术目前广泛应用，但仍有设备仪器笨重无法家用化、耗时复杂不够精确等的问题
+70% 的医疗决策都依赖于准确及时的医疗诊断结果，⽽诊断信息通常由医院以及集中使⽤分析⽅法的实验室获得，如标记免疫分析、聚合酶链反应、细胞培养。尽管这些分析传感技术目前广泛应用，但仍有设备仪器笨重无法家用化、步骤繁多且耗时等的问题。而生物传感器是一种小型仪器，用于快速和方便地测量体液（如血液）中的分子，用于诊断或监测目的。这种紧凑的设备获取可测量的信号，该信号由分子检测设备和传感器获得。生物传感器对从体内采集的样本进行操作（体外测试，例如使用一滴血）或佩戴在体内或体内（用于实时体内传感）。著名的生物传感器有妊娠试验、血糖仪和胆固醇仪，都已经进入我们日常生活之中，当然这些仪器尽管较为方便但在精度上总归是半定量不够精确的，并且测量局限于某种特定产物不方便推广。
 
-生物传感器是一种小型仪器，用于快速和方便地测量体液（如血液）中的分子，用于诊断或监测目的。这种紧凑的设备获取可测量的信号，该信号由分子检测设备和传感器获得。生物传感器对从体内采集的样本进行操作（体外测试，例如使用一滴血）或佩戴在体内或体内（用于实时体内传感）。著名的生物传感器有妊娠试验、血糖仪和胆固醇仪，都已经进入我们日常生活之中
+在目前医疗技术进一步发展的当下，疾病例如肿瘤、心血管疾病和自身免疫病等的早期诊断和预防对于生命健康至关重要，而一般的患者在自身并无大碍，疾病没有明确发展没有明显症状下并不会尽快就医、特别是大型专业医院。这时精准方便的检测手段对于一般的患者来说既无去到大型医院的麻烦，也能尽可能的保有相当程度的隐私，有着巨大的市场潜力。
 
-本文将介绍生物传感器的一些前沿技术，尤其是利用光学特性传感，并将讨论它们在未来进⼀步开发和应⽤所⾯临的挑战
+因此检测生物标记物等代表的生物传感器方向是一个重要的研究领域，但由于大多数生物标记物浓度十分低\site， 
+> Advances in Optical Single-Molecule Detection: En Route to Supersensitive Bioaffinity Assays
+
+发展并推广检测低浓度物质技术也十分重要，这可以是物理特性和结构方面的特殊性标识也可以是化学反应上的特殊\site，
+> Conformational diversity induces nanosecond-timescale chemical disorder in the HIV-1 protease reaction pathway
+
+而对于每个人体内检测物浓度的不一，对每名患者制定个性化医疗方案更加可能实现\site，而这将进一步使精确医疗技术得到发展，
+> Quicker and digital: the way on protein biomarkers?
+> MXene-Enabled Electrochemical Microfluidic Biosensor: Applications toward Multicomponent Continuous Monitoring in Whole Blood
+> Change in HbA(1c) with and without intermittent use of continuous glucose monitoring in adults with type 2 diabetes participating in a virtual diabetes clinic
+> All-in-one conformal epidermal patch for multimodal biosensing
+
+个人检测生物传感器进一步得到推广并成为基础设施。图1展示了生物传感器的一些生物检测物及其在医疗应用领域发挥的作用
+
+这篇综述将介绍生物传感器的一些前沿技术，尤其是利用光学特性传感，并将讨论它们在未来进⼀步开发和应⽤所⾯临的挑战
